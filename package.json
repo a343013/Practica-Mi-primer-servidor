@@ -1,0 +1,12 @@
+{
+  "name": "primer server",
+  "version": "1.0.0",
+  "description": "proyecto",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
